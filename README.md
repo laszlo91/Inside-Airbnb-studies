@@ -1,6 +1,6 @@
 # Inside Airbnb studies
 
-Here some notebooks that can be used to analyse and visualize [Inside Airbnb data](http://insideairbnb.com/). I've done this work for [my friend's research](https://series.francoangeli.it/index.php/oa/catalog/view/869/714/5143) (p. 155) about the spreading of Airbnb in **Bologna** (Italy). Contributions and suggestions are warmly welcome!
+A set of notebooks for analysing and visualising [Inside Airbnb data](http://insideairbnb.com/). This work was originally developed in support of the research behind ["Airbnb e processi di touristification: un’analisi socio-territoriale a partire dal caso studio di Bologna"](https://series.francoangeli.it/index.php/oa/catalog/view/869/714/5143) (FrancoAngeli, 2022, p.155), which explores the socio-territorial impact of Airbnb in **Bologna**, Italy. Contributions and suggestions are welcome!
 <br>
 <br>
 <br>
